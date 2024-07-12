@@ -2,7 +2,7 @@ body {
     margin: 0px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgb(34, 34, 34);
-    background-image: url(/assets/wallpaper4.jpg);
+    background-image: url(../assets/wallpaper4.jpg);
     background-attachment: fixed;
     background-size: cover;
     color: aliceblue
