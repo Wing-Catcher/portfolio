@@ -195,19 +195,18 @@ footer {
     background-color: aliceblue;
     align-items: center;
     gap: 50px;
-    padding: 30px 90px;
+    padding: 10px 90px;
     color: black;
-    
-    #title{
-        font-size: 1.1em;
-        font-weight: 600;
-        #credit{
-            font-size: 0.8em;
-            font-weight: 400;
-        }
-    }
+
     #icons{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
         font-size: 1.5em;
+
+        a:hover{
+            transform: translateY(3px);
+        }
     }
 }
 
