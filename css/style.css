@@ -156,7 +156,7 @@ main{
             backdrop-filter: blur(10px);
             padding: 30px;
             display: flex;
-            flex-wrap: wrap-reverse;
+            flex-wrap: nowrap;
             align-items: center;
             gap: 30px;
             justify-content: space-evenly;
@@ -165,7 +165,7 @@ main{
             transition: all 0.5s;
 
             .project-texts{
-                width: 600px;
+                
             }
 
             .project-image{
