@@ -164,10 +164,6 @@ main{
             opacity: 0;
             transition: all 0.5s;
 
-            .project-texts{
-                
-            }
-
             .project-image{
                 text-align: center;
                 img{
